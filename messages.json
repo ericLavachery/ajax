@@ -1,0 +1,56 @@
+[
+
+	{
+		"nickname" : "Jonas",
+		"message" : "Hello Johnson"
+	},
+	{
+		"nickname" : "Paul",
+		"message" : "Hello Jonas"
+	},
+	{
+		"nickname" : "Luc",
+		"message" : "Hello Jonas"
+	},
+	{
+		"nickname" : "James",
+		"message" : "Hey"
+	},
+	{
+		"nickname" : "James",
+		"message" : "Hey"
+	},
+	{
+		"nickname" : "James",
+		"message" : "How`s goign ?"
+	},
+	{
+		"nickname" : "Jonas",
+		"message" : "Fine"
+	},
+	{
+		"nickname" : "James",
+		"message" : "What are you learning today ?"
+	},
+	{
+		"nickname" : "Jonas",
+		"message" : "Huuum something called Ajax I think"
+	},
+	{
+		"nickname" : "James",
+		"message" : "Right... huum"
+	},
+	{
+		"nickname" : "Luc",
+		"message" : "Ajax is a nice guy !"
+	},
+	{
+		"nickname" : "Paul",
+		"message" : "Yeeah is learning to with us !"
+	},
+	{
+		"nickname" : "Jonas",
+		"message" : "What are you talking about ??? Ajax is used on Javascript !"
+	}
+
+]
